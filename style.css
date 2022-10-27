@@ -17,3 +17,8 @@
     color:white;
     font-weight: bold;
 }
+
+ol li, ul li, ol, ul{ /*ingredients and steps list */
+    background-color:#2141b3;
+    color: white;
+}
