@@ -1,0 +1,19 @@
+*{
+    background-color: #e4d9ff;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title {
+    color:#30343f;
+    text-align: center;
+}
+
+.link {
+    text-align:center;
+}
+
+.subsection {
+    background-color:#273469;
+    color:white;
+    font-weight: bold;
+}
